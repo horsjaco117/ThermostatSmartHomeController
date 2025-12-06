@@ -15,7 +15,7 @@ Imports System.Runtime.CompilerServices
 ' Serial communications imports
 
 Imports System.Net.Configuration
-Public Class Form1
+Public Class HVACSmartHomeController
 
     ' Serial Communications----------------------------------------------------------
     Sub SetDefaults() ' Set's default serial pieces and shows COM ports
